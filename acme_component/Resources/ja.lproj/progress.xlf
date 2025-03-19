@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+   <!--
+Translation file.
+This file is distributed under the same license as the product package.-->
+
+<xliff version="1.0">
+   <file datatype="x-STR#" original="undefined" source-language="en" target-language="ja">
+      <header>
+         <prop-group name="Xliff-Editor.4dbase">
+            <prop prop-type="version">1.0</prop>
+         </prop-group>
+      </header>
+      <body>
+         <group resname="Messages">
+            <trans-unit id="1" resname="title" translate="yes">
+               <source>Renewing Let's Encrypt® certificate...</source>
+               <target>Let's Encrypt® 証明書を更新中...</target>
+            </trans-unit>
+            <trans-unit id="2" resname="initialization">
+               <source>Initialization</source>
+               <target>初期化</target>
+            </trans-unit>
+            <trans-unit id="3" resname="newOrderObject">
+               <source>New "order" object</source>
+               <target>新規 "order" オブジェクト</target>
+            </trans-unit>
+            <trans-unit id="4" resname="csrReqConfObjectNew">
+               <source>New certificate signing request object</source>
+               <target>新規証明書署名要求オブジェクト</target>
+            </trans-unit>
+            <trans-unit id="5" resname="newOrderAndInstall">
+               <source>Sending certificate signing request</source>
+               <target>証明書署名要求を送信中</target>
+            </trans-unit>
+            <trans-unit id="6" resname="newOrder">
+               <source>Sending "order"</source>
+               <target>"order" を送信中</target>
+            </trans-unit>
+            <trans-unit id="7" resname="csrGenerateAndSign">
+               <source>Finalize "order"</source>
+               <target>"order" を最終確定</target>
+            </trans-unit>
+            <trans-unit id="8" resname="authorizationGet">
+               <source>Waiting for authorization</source>
+               <target>権限付与を待機中</target>
+            </trans-unit>
+            <trans-unit id="9" resname="serverDidNotRespond">
+               <source>Server did not respond</source>
+               <target>サーバーが応答しませんでした</target>
+            </trans-unit>
+            <trans-unit id="10" resname="certificateGenerated">
+               <source>Certificate generated</source>
+               <target>証明書が生成されました</target>
+            </trans-unit>
+            <trans-unit id="11" resname="gettingCertificate">
+               <source>Getting certificate</source>
+               <target>証明書を取得中</target>
+            </trans-unit>
+            <trans-unit id="12" resname="certificateInstallation">
+               <source>Certificate installation</source>
+               <target>証明書のインストール</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>
