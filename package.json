@@ -1,0 +1,15 @@
+{
+  "name": "CalendarJp",
+  "description": "Support Japanese Calendar",
+  "author": "Bruno Legay <blegay@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/blegay/acme_component",
+  "version": "2.00.07",
+  "tool": {
+    "platform": "macos",
+    "branch": "20.x",
+    "version": "20.6",
+    "build": "latest",
+    "arch": "arm"
+  }
+}
