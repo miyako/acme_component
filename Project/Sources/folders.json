@@ -1,0 +1,41 @@
+﻿{
+	"compiler": {},
+	"DAT": {},
+	"DBG": {},
+	"Dossier par défaut": {
+		"groups": [
+			"Formulaires par défaut",
+			"Méthodes projet par défaut",
+			"Tables par défaut"
+		]
+	},
+	"ENV": {},
+	"Formulaires par défaut": {},
+	"FS": {},
+	"HEX": {},
+	"LONG": {},
+	"Méthodes projet par défaut": {},
+	"OB": {},
+	"private": {},
+	"public": {},
+	"Tables par défaut": {},
+	"tests": {},
+	"TXT": {},
+	"utils": {
+		"groups": [
+			"DAT",
+			"DBG",
+			"ENV",
+			"FS",
+			"HEX",
+			"LONG",
+			"OB",
+			"TXT",
+			"UTL",
+			"UUID"
+		]
+	},
+	"UTL": {},
+	"UUID": {},
+	"trash": {}
+}
