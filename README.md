@@ -13,3 +13,8 @@ acme client v2 for Let's Encrypt® protocol for 4D
 	}
 }
 ```
+
+## modifications
+
+* added [japanese xliff](https://blog.4d.com/project-databases-method-documentation-is-back/)
+* OpenSSL 3.4.0 22 Oct 2024 (Library: OpenSSL 3.4.0 22 Oct 2024)
